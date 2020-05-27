@@ -12,7 +12,7 @@
 * 列出Close Price分別與其他各feature之間的相關係數
 * 列出任兩個features之間的相關係數
 ### 標準化
-* 因為資料中每個欄位的最小值n與最大值差距都超過10^2 , 所以嘗試將資料標準化
+* 因為資料中每個欄位的最小值與最大值差距都超過10^2 , 所以嘗試將資料標準化
 
 ## Which classifier reaches the highest classification accuracy in this dataset ?
 * Why ?
