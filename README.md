@@ -29,3 +29,8 @@
 * 例如增加hidden layers
 ### 標準化
 * 將資料都標準化後, 對於MLPClassifier的準確率能大幅提昇
+
+## 使用的3種classifiers在實驗中最高的test accracy: 
+* **Logistic Regression**: 0.8130081300813008
+* **Neural Network**: 0.8292682926829268
+* **SVM**: 0.8008130081300813
